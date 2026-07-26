@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm TANJIM AHSAN KAYES</h1>
-<h3 align="center">Frontend Developer from Bangladesh 🇧🇩 I love building interactive and user-friendly web interfaces 💻 HTML • CSS • JavaScript • React • Tailwind</h3>
+<h1 align="center">Hi 👋, I'm Tanjim Ahsan Kayes</h1>
+
+<h3 align="center">
+Frontend Developer | MERN Stack Enthusiast | Computer Science Student 🇧🇩<br>
+Building modern, responsive, and user-friendly web applications with React, Next.js, Tailwind CSS, and JavaScript.
+</h3>
 
 - 💻 Computer Science & Technology Student
 
