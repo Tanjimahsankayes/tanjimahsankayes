@@ -54,6 +54,39 @@ Building modern, responsive, and user-friendly web applications with React, Next
 </p>
 
 
+## 🚀 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=light" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Better%20Auth-18181B?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+---
+
+## 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" />
+</p>
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Explore+the+project+in+real-time.)](https://git.io/typing-svg)
 
