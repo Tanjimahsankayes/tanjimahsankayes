@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Tanjimahsankayes/tanjimahsankayes/blob/main/Tanjim%20Kayes.png?raw=true" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Tanjim Ahsan Kayes</h1>
 
 <h3 align="center">
