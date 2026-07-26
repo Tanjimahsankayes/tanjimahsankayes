@@ -4,6 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Tanjim Ahsan Kayes</h1>
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
 <h3 align="center">
 Frontend Developer | MERN Stack Enthusiast | Computer Science Student 🇧🇩<br>
 Building modern, responsive, and user-friendly web applications with React, Next.js, Tailwind CSS, and JavaScript.
@@ -89,5 +92,4 @@ Building modern, responsive, and user-friendly web applications with React, Next
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
