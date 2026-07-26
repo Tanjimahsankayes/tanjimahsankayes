@@ -4,8 +4,12 @@
 
 <h1 align="center">Hi 👋, I'm Tanjim Ahsan Kayes</h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 <h3 align="center">
 Frontend Developer | MERN Stack Enthusiast | Computer Science Student 🇧🇩<br>
