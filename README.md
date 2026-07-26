@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm TANJIM AHSAN KAYES</h1>
 <h3 align="center">Frontend Developer from Bangladesh 🇧🇩 I love building interactive and user-friendly web interfaces 💻 HTML • CSS • JavaScript • React • Tailwind</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 💻 Computer Science & Technology Student
 
-- 👯 I’m looking to collaborate on **modern and responsive frontend projects**
+- 🌱 Passionate Full-Stack Web Developer specializing in the MERN Stack
+  
+- ⚛️ Building modern, responsive web applications with React & Next.js
 
-- 🤝 I’m looking for help with **advanced JavaScript, React, and real-world project development**
+- 🚀 Currently learning backend architecture, authentication, and system design
 
-- 💬 Ask me about **Html,Css,Tailwind,JavaScript,React**
+- 👯 Open to collaborating on open-source and modern web development projects
+
+- 🤝 Currently exploring advanced JavaScript, React, and scalable application development
+
+- 🎯 Goal: Become a Software Engineer and build impactful digital products
+
+- 💬 Ask me about HTML, CSS, Tailwind CSS, JavaScript, React, Next.js
 
 - 📫 How to reach me **tanjimahsankayes@gmail.com**
 
