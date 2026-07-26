@@ -31,15 +31,26 @@ Building modern, responsive, and user-friendly web applications with React, Next
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kayestanjim12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kayestanjim12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanjimahsankayes12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanjimahsankayes12" height="30" width="40" /></a>
-<a href="https://fb.com/tanjimahsankayes12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanjimahsankayes12" height="30" width="40" /></a>
-<a href="https://instagram.com/tanjimahsankayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanjimahsankayes" height="30" width="40" /></a>
-<a href="https://discord.gg/tanjimahsankayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tanjimahsankayes" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/tanjimahsankayes12" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanjimahsankayes12" height="30" width="40" />
+</a>
+
+<a href="https://fb.com/tanjimahsankayes12" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanjimahsankayes12" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/tanjimahsankayes" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanjimahsankayes" height="30" width="40" />
+</a>
+
+<a href="https://my-portfolio-two-pearl-93.vercel.app" target="blank">
+  <img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="30" />
+</a>
 </p>
 
 
-## 🚀 Frontend
+<h2 align="center">🚀 Frontend</h2>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=light" />
@@ -70,6 +81,11 @@ Building modern, responsive, and user-friendly web applications with React, Next
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb&theme=light" />
 </p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile+Views"/>
+
 
 
 
